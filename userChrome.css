@@ -1,0 +1,5 @@
+/* hides the tabbar bc yes */
+#TabsToolbar {
+visibility: collapse !important;
+
+} 
